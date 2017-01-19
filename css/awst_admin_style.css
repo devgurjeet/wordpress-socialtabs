@@ -1,0 +1,30 @@
+/* style.css */
+.awst_heading{text-align: center; margin: 30px;font-size: 40px}
+.awst_table{padding: 5px; margin: 0 auto; width: 75%; text-align: left; background-color: #FAFFFA; border-collapse:collapse;}
+.awst_thead{background: #1fb3dd;}
+.awst_th{width: 60%; padding: 10px}
+.awst_th3{text-align: center; padding: 10px}
+.awst_td{padding: 10px}
+.awst_td4{margin: 0 auto; text-align: center;}
+#awSuccess{display: none; font-size: 20px}
+.awst_btn{width: 50%;font-size: 20px!important}
+
+/* Awst list Table */
+.wp-list-table #post_title{width: 35%;}
+.wp-list-table #post_type{width: 15%;}
+.wp-list-table #post_likes{width: 10%;}
+.wp-list-table #post_Rating{width: 10%;}
+.wp-list-table #post_reviews{width: 10%;}
+.wp-list-table #actions{width: 20%; text-align: center;}
+#the-list .actions{text-align: center;}
+
+/* list page headers */
+.awst_header{background: #1fb3dd; padding: 5px;border-left: 5px solid #000;}
+.aw_awst_header_h2{float: left;width: 85%;font-size:20px;}
+.aw_awst_header_h2_title{float: left;width: 85%;font-size:15px;}
+.aw_awst_header_h3{float: right;}
+.aw_awst_header_h3 > a {background-color: #23282d;border-radius: 4px;padding: 6px;color: #FFF;text-decoration: none;}
+.aw_awst_header_h3 > span {background: #fff none repeat scroll 0 0;border-radius: 5px;padding: 5px;}
+.awst_rate_back {background-color: #23282d !important; padding: 8px 8px 6px 8px; }
+.awst_rate_back i {color: #ffd700;cursor: pointer;font-size: 20px;}
+.action_links{font-weight: bold;}
